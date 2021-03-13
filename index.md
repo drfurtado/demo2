@@ -29,6 +29,6 @@ Vertical slides are separated by `- - -` ..
 
 -----
 
-### Made with love by [Furtado, O., Jr.](https://drfurtado.netlify.app/)
+### <> with {} by [Furtado, O., Jr.](https://drfurtado.netlify.app/)
 
 #### Credits: [reveal.js](https://github.com/hakimel/reveal.js)
